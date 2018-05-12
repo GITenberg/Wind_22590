@@ -1,0 +1,32 @@
+_repo: Wind_22590
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fontenay, Charles L.
+    alias: Fontenay, Charles Louis
+    birthdate: 1917
+    deathdate: 2007
+    gutenberg_agent_id: '9500'
+    url: http://www.gutenberg.org/2009/agents/9500
+    wikipedia: http://en.wikipedia.org/wiki/Charles_L._Fontenay
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Wind
+url: http://www.gutenberg.org/ebooks/22590
